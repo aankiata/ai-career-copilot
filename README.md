@@ -72,6 +72,10 @@ An AI-powered Career Copilot that analyzes resumes against job descriptions usin
 
 ---
 
+## 🏗️ Architecture
+
+![Architecture](screenshots/Architecture.png)
+
 # 📂 Project Structure
 
 ```
